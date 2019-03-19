@@ -38,7 +38,7 @@
                         <asp:Label ID="lblDotNetVersion" runat="server"></asp:Label></em></p>
                     <p>The application port is <em>
                         <asp:Label ID="lblPort" runat="server"></asp:Label></em></p>
-                    <p>The instance ID is <em>
+                    <p>The instance ID is 1 <em>
                         <asp:Label ID="lblInstanceID" runat="server"></asp:Label></em></p>
                     <p>The instance index is <em>
                         <asp:Label ID="lblInstanceIndex" runat="server"></asp:Label></em></p>
